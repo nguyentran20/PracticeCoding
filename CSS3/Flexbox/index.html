@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" >
+  <head>
+    <meta charset="utf-8">
+    <meta name="Viewport" content="width=device-width,initial-scale=1.0">
+    <title> Flexbox</title>
+  </head>
+
+  <style >
+    #parent {
+      border:2px dotted blue;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap-reverse;
+      justify-content: space-evenly;
+      align-items: flex-start;
+    }
+
+    #parent div {
+      border: 1px dotted black;
+      width:150px;
+      height: 150px;
+      margin-top: 10px;
+      margin-left: 40px;
+    }
+    #child1 {
+      background-color: red;
+      order:2;
+      /* flex-grow: 4; */
+    }
+    #child2 {
+      background-color: yellow;
+      order:3;
+    }
+    #child3 {
+      background-color: cyan;
+      order:4;
+    }
+    #child4 {
+      background-color: blue;
+      order:5;
+    }
+    #child5 {
+      background-color: orange;
+      order:1;
+    }
+    #child6,#child7,#child8,#child9 {
+      background-color: magenta;
+      order:8;
+    }
+  </style>
+
+  <body>
+    <main>
+      <div id="parent">Parent
+        <div id="child1">Box1</div>
+        <div id="child2">Box2</div>
+        <div id="child3">Box3</div>
+        <div id="child4">Box4</div>
+        <div id="child5">Box5</div>
+        <div id="child6">Box6</div>
+        <div id="child7">Box7</div>
+        <div id="child8">Box8</div>
+        <div id="child9">Box9</div>
+      </div>
+    </main>
+  </body>
+</html>
