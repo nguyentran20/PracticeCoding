@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="F:/FrontEnd/MavenPractice">
+        <classes>
+            <class name="org.example.AppiumTest">
+                <methods>
+                    <include name="nativeAppAndroid"/>
+                    <include name="IOSApps"/>
+                </methods>
+            </class>
+            <class name="org.example.RESTApiTest">
+                <methods>
+                    <include name="postJIRA"/>
+                    <include name="deleteTwitter"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

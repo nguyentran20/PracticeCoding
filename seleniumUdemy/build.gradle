@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'PracticeGr'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+    compile group: 'org.testng', name: 'testng', version: '7.1.0'
+    compile group: 'com.aventstack', name: 'extentreports', version: '5.0.1'
+}
+
+test {
+    useTestNG()
+    testLogging.showStandardStreams = true
+}

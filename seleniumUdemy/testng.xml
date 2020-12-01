@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="F:/FrontEnd/seleniumUdemy/src/test/java/com/newtours/test">
+        <parameter name = "noOfPasserngers" value = "2" />
+        <parameter name = "expectedPrice" value = "$1169 USD"/>
+        <classes>
+            <class name="com.newtours.test.BookFlightTest">
+                <methods>
+                    <include name="registrationPage"/>
+                    <include name="registrationConfirmationPage"/>
+                    <include name="flightDetailsPage"/>
+                    <include name="findFlightPage"/>
+                    <include name="flightConfirmationPage"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

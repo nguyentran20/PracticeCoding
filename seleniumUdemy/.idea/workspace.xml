@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a84c96e6-1ffb-4a20-b67d-c77431c06764" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/LocatorTechniques/Dropdown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/LocatorTechniques/LocatorSimple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/LocatorTechniques/RegularExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/LocatorTechniques/TraverseRelationship.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/LocatorTechniques/XPath.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LocatorTechniques/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LocatorTechniques/LocatorSimple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LocatorTechniques/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LocatorTechniques/TraverseRelationship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LocatorTechniques/XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeJava/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeJava/arrayListexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeJava/collectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PracticeJava/hastSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Wait/base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleArabic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GoogleFrench.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/factory/GooglePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/common/AbstractComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/common/SearchSuggestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/common/SearchWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/main/GoogleMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/result/GoogleResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/result/NavigationBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/udemy/seleniumdesign/srp/result/ResultStat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNG/testNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/newtours/test/BookFlightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/searchmodule/test/SearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/udemy/seleniumdesign/test/srp/GoogleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/nguyenTran/ExtensReport/ExtentReportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="seleniumUdemy" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="seleniumUdemy" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="seleniumUdemy" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="seleniumUdemy" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1k7lq9VPiCIObLn9CsRR3eWE4Vo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable" value="ALL" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Gradle.ExtentReportDemo">
+    <configuration name="arrayListexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeJava.arrayListexample" />
+      <module name="seleniumUdemy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hastSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeJava.hastSetExample" />
+      <module name="seleniumUdemy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PracticeJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExtentReportDemo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;nguyenTran.ExtensReport.ExtentReportDemo&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GoogleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.udemy.seleniumdesign.test.srp.GoogleTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GoogleTest.googleWorkFlow" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.udemy.seleniumdesign.test.srp.GoogleTest.googleWorkFlow&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="testNG" type="TestNG" nameIsGenerated="true">
+      <module name="seleniumUdemy.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNG.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.testNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ExtentReportDemo" />
+        <item itemvalue="Gradle.GoogleTest.googleWorkFlow" />
+        <item itemvalue="Gradle.GoogleTest" />
+        <item itemvalue="Application.hastSetExample" />
+        <item itemvalue="Application.arrayListexample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84c96e6-1ffb-4a20-b67d-c77431c06764" name="Default Changelist" comment="" />
+      <created>1605059700554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605059700554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1606212837669">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1605886667188" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1606212837669" />
+    <state width="1237" height="147" key="GridCell.Tab.0.bottom" timestamp="1606733006251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1606061522690" />
+    <state width="1237" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1606733006251" />
+    <state width="1237" height="147" key="GridCell.Tab.0.center" timestamp="1606733006251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.center/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1606061522690" />
+    <state width="1237" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1606733006251" />
+    <state width="1237" height="147" key="GridCell.Tab.0.left" timestamp="1606733006251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.left/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1606061522689" />
+    <state width="1237" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1606733006251" />
+    <state width="1237" height="147" key="GridCell.Tab.0.right" timestamp="1606733006251">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="147" key="GridCell.Tab.0.right/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1606061522690" />
+    <state width="1237" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1606733006251" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1605249687230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1605249687230" />
+    <state x="91" y="0" key="new project wizard" timestamp="1606051120846">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680/1920.1.1920.1040@0.0.1280.680" timestamp="1606051120846" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1605339082528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1605339082528" />
+  </component>
+</project>
